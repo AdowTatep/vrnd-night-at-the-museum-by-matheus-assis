@@ -11,3 +11,5 @@ The fifth project for the Udacity VR Developer Nanodegree program: Night at the 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.100.1](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
+- [ProBuilder v2.9.8f3](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418)
+- [ProGrids v2.5.0f0](https://assetstore.unity.com/packages/tools/modeling/progrids-111425)
