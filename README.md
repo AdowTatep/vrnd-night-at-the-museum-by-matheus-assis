@@ -14,7 +14,7 @@ It is a museum-like exibition, with explanation, audio, video and interactive co
 
 <!--TODO: If you don't have a VR headset, [you can watch the 360 video version.]() -->
 
-## You can read more in the [Documentation](./Docs/Doc.md)
+## You can read more in the [Documentation](./Docs/README.md)
 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
