@@ -21,6 +21,9 @@ It is a museum-like exibition, with explanation, audio, video and interactive co
 - [GVR SDK for Unity v1.100.1](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
 - [ProBuilder v2.9.8f3](https://assetstore.unity.com/packages/tools/modeling/probuilder-111418)
 - [ProGrids v2.5.0f0](https://assetstore.unity.com/packages/tools/modeling/progrids-111425)
+- [Emil Persson Urban skyboxes](https://opengameart.org/content/urban-skyboxes)
+
+
 
 ### How to run
 - Open the project in a compatible Unity version.

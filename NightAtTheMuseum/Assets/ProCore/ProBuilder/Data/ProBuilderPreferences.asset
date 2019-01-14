@@ -17,24 +17,38 @@ MonoBehaviour:
   - pbForceConvex
   - pbMeshesAreAssets
   - pbDefaultOpenInDockableWindow
+  - pbIconGUI
+  - pbEnableBackfaceSelection
+  - pbGrowSelectionUsingAngle
+  - pbGrowSelectionAngleIterative
   m_Int_keys:
   - pbHandleAlignment
   - pbDefaultEntity
   - pbDefaultCollider
   - pbShadowCastingMode
+  - pbDefaultEditLevel
+  - pbDefaultSelectionMode
+  - pb_GIWorkflowMode
+  - pbVertexColorTool
   m_Float_keys:
   - pbEditorScroll.x
   - pbEditorScroll.y
-  m_String_keys: []
+  - pbWeldDistance
+  - pbGrowSelectionAngle
+  m_String_keys:
+  - pbVertexColorPrefs0
   m_Color_keys: []
   m_Material_keys:
   - pbDefaultMaterial
-  m_Bool_values: 0100000000
-  m_Int_values: 00000000000000000200000002000000
+  m_Bool_values: 010000000100000100
+  m_Int_values: 0000000000000000020000000200000001000000020000000100000000000000
   m_Float_values:
   - 0
   - 0
-  m_String_values: []
+  - 0.001
+  - 42
+  m_String_values:
+  - RGBA(1.000, 1.000, 1.000, 1.000)
   m_Color_values: []
   m_Material_values:
   - {fileID: 2100000, guid: 55296d1b6ee54e14e8eb4648d4b448ee, type: 2}
